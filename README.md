@@ -28,7 +28,7 @@ Cлияние в ветку master
 после успешного слияния. 
 ![](https://github.com/gric11/LR6/blob/Report/photo/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-30%20231802.png)<br>
 Создание нескольких<br>
-коммитов
+коммитов<br>
 ![](https://github.com/gric11/LR6/blob/Report/photo/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-30%20232027.png)<br>
 Откат коммита
 ![](https://github.com/gric11/LR6/blob/Report/photo/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-30%20232115.png)
